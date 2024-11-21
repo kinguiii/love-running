@@ -1,3 +1,7 @@
+/* google fonts import */
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Pre:wght@400..700&family=Lato:wght@300&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&display=swap');
+
+
 /* asterisk wildcard */
 * {
     margin: 0;
@@ -12,8 +16,10 @@ body {
     flex-direction: column;
     /* Generic project styles */
     color: #3a3a3a;
+    font-family: 'lato', sans-serif;
 
 }
+
 /* header */
 header {
     background-color: coral;
