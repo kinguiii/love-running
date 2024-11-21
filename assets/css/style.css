@@ -25,6 +25,10 @@ header {
     background-color: coral;
 }
 
+h1 {
+    font-family: 'Oswald';
+}
+
 /* main */
 main {
     background-color: lightblue;
